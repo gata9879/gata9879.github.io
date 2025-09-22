@@ -1,0 +1,36 @@
+body { background-color: rgb(29, 73, 100);
+         color: white;
+         font-family: Arial, sans-serif;
+         margin: 0;
+         padding: 20px;
+         }
+
+nav { text-align: center;
+        margin-bottom: 20px;
+        }
+
+form { background-color: rgb(53, 4, 66);
+        padding: 20px;
+        text-align: center;
+        border-radius: 5px;
+        max-width: 600px;
+        margin: auto;
+        }    
+button { background-color: rgb(74, 123, 154);
+          color: white;
+          border: none;
+          padding: 10px 20px;
+          cursor: pointer;
+          border-radius: 5px;
+          font-size: 16px;
+          }    
+
+header { text-align: center;
+          margin-bottom: 20px;
+          }
+
+nav a { color: black;
+         text-decoration: none;
+         margin: 0 15px;
+         font-weight: bold;
+         }
